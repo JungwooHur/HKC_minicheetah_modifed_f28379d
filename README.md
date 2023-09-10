@@ -1,4 +1,5 @@
 # HKC_minicheetah_modifed_f28379d
+modified for Launchxl-f28379d Texas Instruments
 
 Hardware setup:
 BLDC motor: Written for a U8IIkv100 T_motor. If you use another motor, you should change motor_config.h
