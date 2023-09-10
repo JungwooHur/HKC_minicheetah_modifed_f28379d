@@ -1,6 +1,9 @@
 # HKC_minicheetah_modifed_f28379d
 modified for Launchxl-f28379d Texas Instruments
 
+Setup ppt
+https://docs.google.com/presentation/d/1ug056UgKbpwRCTzVIH6ax6KQ8RkqwWrc/edit?usp=sharing&ouid=109025632736785653978&rtpof=true&sd=true
+
 Hardware setup:
 BLDC motor: Written for a U8IIkv100 T_motor. If you use another motor, you should change motor_config.h
 [Any 3-Phase motor]
